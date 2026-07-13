@@ -46,10 +46,10 @@
       color: #fff;
       text-shadow: 0 2px 8px rgba(0,0,0,0.3);
       margin: 0;
-      text-transform: lowercase;
+      text-transform: uppercase;
     }
     .simple-header h1 span {
-      color: #f7c948;
+      color: #fff;
     }
 
     /* ===== SECCIÓN PRODUCTOS ===== */
@@ -361,16 +361,8 @@
 
     let html = '';
     for (const prod of filtrados) {
-      const imageUrl = IMAGE_FOLDER + encodeURIComponent(prod.nombre) + '.png';
-
-      const imgTag = `<img src="${escapeHtml(imageUrl)}" 
-                           alt="${escapeHtml(prod.nombre)}" 
-                           loading="lazy" 
-                           onerror="this.onerror=null; this.parentNode.insertBefore(Object.assign(document.createElement('div'),{className:'no-img',innerHTML:'Sin imagen'}), this); this.remove();">`;
-
       html += `
         <div class="product-card">
-          ${imgTag}
           <h3>${escapeHtml(prod.nombre)}</h3>
           <div class="price-usd"><span>Precio USD:</span> $${prod.precioUsd.toFixed(2)}</div>
           <div class="price-bs">Bs. ${formatoBs(prod.precioBs)}</div>
