@@ -1,506 +1,789 @@
 ﻿ID,Nombre,Precio Venta ($),Precio Compra ($),Categoría
-975,Gel Rolda,2.54,2.09,Gelatina de cabello
-827,Agua Cool 1.5L x6 bulto,4.20,3.70,REFRESCO POR CAJA
-825,Agua Cool 400ml x 15 bulto,4.20,3.70,REFRESCO POR CAJA
-826,Agua Cool 600 ml x12 bulto,4.20,3.70,REFRESCO POR CAJA
-814,BIg Cola bulto,5.15,4.80,REFRESCO POR CAJA
-919,Caja Pepsi 350 ml retornable caja,12.00,11.35,REFRESCO POR CAJA
-874,Chinotto 2 L bulto,6.35,5.85,REFRESCO POR CAJA
-803,Coca Coca 2 L,8.30,7.75,REFRESCO POR CAJA
-805,Coca Cola 1 L bulto,5.20,4.75,REFRESCO POR CAJA
-806,Coca Cola 1.25 L retorable caja,4.75,4.20,REFRESCO POR CAJA
-804,Coca Cola 1.5 L bulto,7.30,6.80,REFRESCO POR CAJA
-809,Fanta 1 L bulto,4.10,3.80,REFRESCO POR CAJA
-808,Fanta 1.5 L bulto,5.20,4.80,REFRESCO POR CAJA
-807,Fanta 2 L bulto,6.35,5.85,REFRESCO POR CAJA
-815,First 2 L bulto,5.15,4.80,REFRESCO POR CAJA
-920,Frescolita 2 L bulto,6.35,5.85,REFRESCO POR CAJA
-823,Gatorade bulto,19.50,18.50,REFRESCO POR CAJA
-810,Golde 2 L bulto,6.35,5.85,REFRESCO POR CAJA
-811,Golden 1.5 L bulto,5.20,4.80,REFRESCO POR CAJA
-833,Golden 2 L bulto,6.35,5.70,REFRESCO POR CAJA
-812,Golden1 L bulto,4.10,3.80,REFRESCO POR CAJA
-819,Jugo El Valle 1.5 L bulto,5.50,5.30,REFRESCO POR CAJA
-820,Jugo El Valle 500 ml bulto,7.75,7.22,REFRESCO POR CAJA
-817,Jugo Justy 1.5 L bulto,12.60,10.80,REFRESCO POR CAJA
-818,Jugo Justy 400 ml bulto,7.00,5.80,REFRESCO POR CAJA
-816,Jugosa 1 L bulto,22.00,21.00,REFRESCO POR CAJA
-828,Leche liquida Natulac 1 L bulto,29.50,27.00,REFRESCO POR CAJA
-821,Malta 1.5 L bulto,11.00,9.80,REFRESCO POR CAJA
-822,Malta 250 ml retorable caja,16.80,15.80,REFRESCO POR CAJA
-813,Mini Sun bulto,4.90,4.40,REFRESCO POR CAJA
-824,Power Max caja,6.00,5.30,REFRESCO POR CAJA
-831,Sun 2 L bulto,5.00,4.70,REFRESCO POR CAJA
-972,Vainilla el aguila 230 ml,1.06,0.77,Vainilla
-946,Aceite Agroil 700 ml,2.35,2.20,aceites
-923,Aceite Agroil 800 ml,2.45,2.11,aceites
-964,Aceite Amanecer 500 ml,1.89,1.66,aceites
-908,Aceite Aurora 500 ml,1.93,1.67,aceites
-892,aceite Vatel 800 ml,2.54,2.29,aceites
-954,aceite Vatel pequeño,1.66,1.50,aceites
-655,aceite vatel 1 litro,3.89,3.17,aceites
+827,Agua Cool 1.5L x6,4.00,3.70,REFRESCO POR CAJA
+825,Agua Cool 400ml x 15,4.00,3.70,REFRESCO POR CAJA
+826,Agua Cool 600 ml x12,4.00,3.70,REFRESCO POR CAJA
+814,BIg Cola,5.30,4.80,REFRESCO POR CAJA
+874,Chinotto 2 L,6.30,5.85,REFRESCO POR CAJA
+803,Coca Coca 2 L,8.30,8.00,REFRESCO POR CAJA
+805,Coca Cola 1 L,5.20,4.75,REFRESCO POR CAJA
+806,Coca Cola 1.25 L retorable,4.50,4.20,REFRESCO POR CAJA
+804,Coca Cola 1.5 L,7.20,7.00,REFRESCO POR CAJA
+860,Cool Cola 2 L,4.90,4.60,REFRESCO POR CAJA
+809,Fanta 1 L,4.10,3.80,REFRESCO POR CAJA
+808,Fanta 1.5 L,5.20,4.80,REFRESCO POR CAJA
+807,Fanta 2 L,6.30,5.85,REFRESCO POR CAJA
+815,First 2 L,5.10,4.80,REFRESCO POR CAJA
+823,Gatorade,19.50,18.50,REFRESCO POR CAJA
+810,Golde 2 L,6.30,5.80,REFRESCO POR CAJA
+811,Golden 1.5 L,5.20,4.80,REFRESCO POR CAJA
+833,Golden 2 L,6.30,5.70,REFRESCO POR CAJA
+812,Golden1 L,4.10,3.80,REFRESCO POR CAJA
+819,Jugo El Valle 1.5 L,5.50,5.30,REFRESCO POR CAJA
+820,Jugo El Valle 500 ml,7.70,5.30,REFRESCO POR CAJA
+817,Jugo Justi 1.5 L,12.60,10.80,REFRESCO POR CAJA
+818,Jugo Justi 400 ml,7.00,5.80,REFRESCO POR CAJA
+816,Jugosa 1 L,19.50,18.00,REFRESCO POR CAJA
+828,Leche liquida Natulac 1 L,29.50,27.00,REFRESCO POR CAJA
+821,Malta 1.5 L,11.00,9.80,REFRESCO POR CAJA
+822,Malta 250 ml retorable,16.80,15.80,REFRESCO POR CAJA
+813,Mini Sun 200 ml,4.80,4.40,REFRESCO POR CAJA
+824,Power Max,6.00,5.30,REFRESCO POR CAJA
+831,Sun 2 L,5.00,4.70,REFRESCO POR CAJA
+861,jugo fruton 400 ml,7.00,6.00,REFRESCO POR CAJA
+883,leche completa purisima,2.00,1.60,REFRESCO POR CAJA
+696,Cool cola,0.90,0.79,"aceites,mantequillas"
+697,Crema de leche nicanor,3.00,2.50,"aceites,mantequillas"
+850,Deline grande,3.20,2.70,"aceites,mantequillas"
+698,Mantequilla Nicanor,1.20,0.96,"aceites,mantequillas"
+790,Mantequilla la Delicia 250 gr,1.11,0.91,"aceites,mantequillas"
+699,Suero Nicanor,1.20,0.90,"aceites,mantequillas"
+892,aceite Vatel 800 ml,2.95,2.62,"aceites,mantequillas"
+247,aceite agroil 500ml,2.00,1.82,"aceites,mantequillas"
+528,aceite agroil 700 ml,3.23,2.50,"aceites,mantequillas"
+593,aceite agroil 828 ml,3.22,2.98,"aceites,mantequillas"
+499,aceite amanecer 500ml,2.26,1.95,"aceites,mantequillas"
+368,aceite gota de oro,2.82,2.58,"aceites,mantequillas"
+2,aceite ideal 430,1.75,1.19,"aceites,mantequillas"
+515,aceite naturoil 850 ml,3.65,3.45,"aceites,mantequillas"
+279,aceite pampa,1.93,1.80,"aceites,mantequillas"
+592,aceite pampa 500 ml,2.34,2.01,"aceites,mantequillas"
+274,aceite portumesa medio litro,1.54,1.69,"aceites,mantequillas"
+656,aceite puro gol 235 ml,1.27,0.95,"aceites,mantequillas"
+228,aceite puro gold,2.33,2.18,"aceites,mantequillas"
+462,aceite santa lucia 900 ml,3.62,3.08,"aceites,mantequillas"
+655,aceite vatel 1 litro,3.89,3.17,"aceites,mantequillas"
+253,aceite vatel 500 ml,2.08,1.66,"aceites,mantequillas"
+636,alinos san miguel,1.75,1.37,"aceites,mantequillas"
+640,canela,0.51,0.30,"aceites,mantequillas"
+637,comino,0.55,0.35,"aceites,mantequillas"
+663,huevos,3.42,3.10,"aceites,mantequillas"
+787,mantequilla  mirazol 454 g,2.39,1.92,"aceites,mantequillas"
+789,mantequilla Juana 454 gr,2.08,1.87,"aceites,mantequillas"
+859,mantequilla La Rendidora,2.32,1.92,"aceites,mantequillas"
+5,mantequilla deline P,1.63,0.96,"aceites,mantequillas"
+767,mantequilla la lucha,2.50,2.15,"aceites,mantequillas"
+3,mantequilla mavesa G,3.10,2.77,"aceites,mantequillas"
+269,mantequilla mavesa P,2.05,1.57,"aceites,mantequillas"
+352,mantequilla nelly 250 gr,1.57,1.31,"aceites,mantequillas"
+694,mantequilla pampa 250 gr,1.31,1.06,"aceites,mantequillas"
+693,mantequilla pampa 450 gr,2.36,2.04,"aceites,mantequillas"
+96,mantequilla vemesa 400 gr,1.83,1.62,"aceites,mantequillas"
+549,margarina kemy 400,2.28,1.92,"aceites,mantequillas"
+379,margarina monte carmelo 400 gr,1.47,1.33,"aceites,mantequillas"
+641,onoto,0.50,0.30,"aceites,mantequillas"
+638,soda,0.50,0.25,"aceites,mantequillas"
 830,Agua cool 1.5 L,0.93,0.66,agua potable
 829,Agua cool 400 ml,0.44,0.26,agua potable
-955,Agua potable bidon,1.00,0.57,agua potable
 359,agua cool 600 ml,0.55,0.33,agua potable
 376,agua saborizada nevada  335 ml,0.80,0.82,agua potable
-305,ajo chino,8.98,5.00,ajo
-856,ajo criollo,8.98,10.00,ajo
-948,Ringo Adulto,2.73,1.94,animales
-164,gatarina,5.10,3.79,animales
+305,ajo chino,8.10,5.00,ajo
+856,ajo criollo,11.81,10.00,ajo
+164,gatarina,5.00,3.79,animales
 220,maiz,0.79,0.64,animales
 189,multiproposito,0.60,0.52,animales
-916,Fabuloso,0.90,0.64,aromatizantes
-763,aromatizante Roberti 1 L,1.80,1.43,aromatizantes
-103,aromax,0.57,0.29,aromatizantes
-965,Arroz Amanecer marfil,1.07,0.97,arroz
-853,Arroz Kaly,0.95,0.90,arroz
-25,arroz Mary tradicional,0.85,0.75,arroz
-952,arroz Mimasa,0.90,0.80,arroz
-243,arroz doña emilia,0.79,0.68,arroz
-524,arroz la lucha,1.04,0.88,arroz
-944,Azucar Cominka 500 gr,0.79,0.58,azucar
-276,azucar amanecer,1.60,1.47,azucar
-728,azucar cominka,1.50,1.35,azucar
-51,azucar pastora 1kg,1.55,1.24,azucar
-674,papelon,1.22,0.97,azucar
-324,cerelac 400 gr,6.39,5.86,bebidas instantaneas
-436,gelatina sonrisa 66 gr,1.91,1.60,bebidas instantaneas
-302,toddy 100 gr,1.62,1.23,bebidas instantaneas
-711,toddy 200 gr pote,3.22,2.80,bebidas instantaneas
-746,toddy bolsa 400 g,6.70,6.18,bebidas instantaneas
-794,Cafe Aurora 100 gr,1.32,1.12,cafe
-795,Cafe Aurora 200 gr,2.50,2.06,cafe
-50,Dellanona 100 gr,1.58,1.40,cafe
-49,amanecer 100g,1.58,1.35,cafe
-48,amanecer 200g,2.85,2.49,cafe
-223,arauca 50gr,0.80,0.63,cafe
-364,cafe arauca 100 gr,1.41,1.26,cafe
-195,favorito 100gr,1.32,1.09,cafe
-47,favorito 50gr,0.73,0.55,cafe
-46,flor de arauca,2.80,2.54,cafe
-44,protectora 100g,1.40,1.19,cafe
-357,protectora 200 gr,2.63,2.34,cafe
-356,protectora 50 gr,0.74,0.59,cafe
-970,Chao Linea,0.15,0.09,caramelos  y chupetas
-87,caramelo bianchi,0.04,0.02,caramelos  y chupetas
+163,perrarina,2.40,1.65,animales
+645,ringo cachorros,3.76,3.10,animales
+792,Arroz Aurora,1.15,1.00,"arroz,pasta y granos"
+853,Arroz Kaly,1.05,0.90,"arroz,pasta y granos"
+801,Lentejas Aurora 400 gr,1.32,1.17,"arroz,pasta y granos"
+239,arroz amanecer,1.60,1.30,"arroz,pasta y granos"
+557,arroz conquista,1.16,1.01,"arroz,pasta y granos"
+243,arroz doña emilia,1.00,0.99,"arroz,pasta y granos"
+524,arroz la lucha,1.40,1.19,"arroz,pasta y granos"
+25,arroz mary,0.99,0.84,"arroz,pasta y granos"
+347,arroz pollito,1.17,0.64,"arroz,pasta y granos"
+45,arroz primor clasico negro,1.33,1.25,"arroz,pasta y granos"
+872,arroz venpor,0.88,0.76,"arroz,pasta y granos"
+27,caraotas 1/2,1.17,1.07,"arroz,pasta y granos"
+400,caraotas amanecer,1.75,1.50,"arroz,pasta y granos"
+348,frijol pico negro,0.73,0.49,"arroz,pasta y granos"
+168,granola,0.75,0.37,"arroz,pasta y granos"
+28,lentejas 1/2,1.38,0.95,"arroz,pasta y granos"
+277,lentejas amanecer,1.62,1.50,"arroz,pasta y granos"
+238,maiz cotufa amanecer,1.03,0.92,"arroz,pasta y granos"
+351,maiz cotufa maizal 400 gr,1.03,0.93,"arroz,pasta y granos"
+338,maiz de cotufa d vita 400 gr,1.11,0.86,"arroz,pasta y granos"
+611,maiz de cotufa maizalito,1.59,1.25,"arroz,pasta y granos"
+346,quinchoncho medio kilo,1.21,1.08,"arroz,pasta y granos"
+794,Cafe Aurora 100 gr,1.25,1.14,cafe y azucar
+795,Cafe Aurora 200 gr,2.47,2.22,cafe y azucar
+50,Dellanona 100 gr,1.58,1.40,cafe y azucar
+49,amanecer 100g,1.58,1.35,cafe y azucar
+48,amanecer 200g,2.85,2.49,cafe y azucar
+223,arauca 50gr,0.80,0.63,cafe y azucar
+650,azucar  500 g cominka,0.84,0.67,cafe y azucar
+170,azucar 1/2 la pastora,1.00,0.70,cafe y azucar
+793,azucar Aurora,1.60,1.52,cafe y azucar
+276,azucar amanecer,1.66,1.50,cafe y azucar
+728,azucar cominka,1.50,1.35,cafe y azucar
+51,azucar pastora 1kg,1.62,1.40,cafe y azucar
+837,azucar santo melao 500 g,0.90,0.71,cafe y azucar
+791,azucar venpor 1 kilo,1.41,1.34,cafe y azucar
+873,azucar venpor 900 gr,1.32,1.22,cafe y azucar
+779,cafe amanecer 500 gr,6.90,6.24,cafe y azucar
+364,cafe arauca 100 gr,1.41,1.26,cafe y azucar
+497,cafe monte carmelo 100 gr,1.50,1.20,cafe y azucar
+498,cafe monte carmelo 200 gr,2.80,2.40,cafe y azucar
+195,favorito 100gr,1.32,1.09,cafe y azucar
+47,favorito 50gr,0.73,0.55,cafe y azucar
+46,flor de arauca,2.78,2.54,cafe y azucar
+674,papelon,1.23,0.98,cafe y azucar
+44,protectora 100g,1.48,1.36,cafe y azucar
+357,protectora 200 gr,2.69,2.48,cafe y azucar
+356,protectora 50 gr,0.78,0.68,cafe y azucar
+745,Mentitas,0.71,0.51,caramelos  y chupetas
+85,barrilete,0.13,0.10,caramelos  y chupetas
+232,bocadillo de platano,0.27,0.20,caramelos  y chupetas
+226,bocadillos de leche,0.16,0.11,caramelos  y chupetas
+87,caramelo bianchi,0.05,0.01,caramelos  y chupetas
 84,caramelo cafe gurme,0.09,0.04,caramelos  y chupetas
 89,caramelo chao,0.04,0.01,caramelos  y chupetas
 395,caramelo chao xtreme,0.04,0.01,caramelos  y chupetas
+505,caramelo iogurte,0.06,0.04,caramelos  y chupetas
+88,caramelo lokiño,0.04,0.01,caramelos  y chupetas
 633,caramelo menta helada,0.07,0.03,caramelos  y chupetas
 249,caramelo ricato,0.06,0.04,caramelos  y chupetas
 278,chicle agogo,0.22,0.15,caramelos  y chupetas
 83,chupeta,0.17,0.07,caramelos  y chupetas
-82,freegells tubo menta,0.45,0.23,caramelos  y chupetas
+82,freegells tubo menta,0.45,0.25,caramelos  y chupetas
+285,gomitas brusli,0.58,0.48,caramelos  y chupetas
 651,halls barra,0.68,0.44,caramelos  y chupetas
 597,mentos carmelo,0.57,0.44,caramelos  y chupetas
-334,trululu 90 gr,0.72,0.52,caramelos  y chupetas
-33,bistec,11.50,10.00,carnes
-731,carne molida,11.00,7.50,carnes
-732,carne para mechar,11.00,9.00,carnes
-289,chuleta ahumada,8.50,7.50,carnes
-778,pechuga de pollo,5.00,3.50,carnes
-265,pollo entero,3.29,2.90,carnes
-264,pollo picado,3.85,2.90,carnes
-956,Avena Don Jorje,1.20,0.90,cereales
-518,avena de vita 400 gr,1.20,1.00,cereales
-266,avena detallada 250 gr,0.70,0.50,cereales
-237,crema de arroz mary,1.15,0.92,cereales
-880,crema de leche di fiore 170 gr,1.77,1.33,cereales
-881,fororo valle hondo 250 gr,0.73,0.56,cereales
-39,fororo valle hondo 400 gr,1.00,0.75,cereales
-38,maizena 120g,1.15,0.76,cereales
-712,maizena 200 g,1.66,1.41,cereales
-37,maizena 90g,0.96,0.75,cereales
-632,maizoritos azucarados,3.13,2.75,cereales
-40,maizoritos blanco,3.04,2.65,cereales
-734,maizoritos fruty aros,3.25,2.83,cereales
-963,Crema de leche Guaralac 250 gr,2.17,1.90,charcuteria
-980,Jamon de espalda Alimex,10.50,8.48,charcuteria
-898,Mortadela Alpro 400 gr,1.47,1.03,charcuteria
-928,Salchicha Alimex 11 unid,1.90,1.60,charcuteria
-899,Suero Nicanor,1.07,0.90,charcuteria
-979,Tocineta Ahumada,18.00,15.23,charcuteria
+86,trululu,0.15,0.01,caramelos  y chupetas
+334,trululu 90 gr,0.86,0.67,caramelos  y chupetas
+33,bistec,12.90,10.00,carnes
+731,carne molida,11.70,7.50,carnes
+732,carne para mechar,11.50,9.00,carnes
+457,lagarto con hueso,10.50,9.00,carnes
+607,catalina grande paquete,2.22,1.64,catalina centro
+608,catalina grande unidad,0.22,0.16,catalina centro
+765,Boloña punta del monte,6.80,4.53,charcuteria
+691,Frugy 500ml,0.67,0.50,charcuteria
+176,ahulux diablito 300 gr,1.91,1.69,charcuteria
+381,bolona don teo,5.00,3.27,charcuteria
 882,boloña alpro pollo grande,6.00,3.73,charcuteria
 241,chorizo don eustoquio,11.00,7.50,charcuteria
 242,crema de leche don eustoquio,3.60,2.80,charcuteria
-889,crema de leche el morocho,2.50,1.90,charcuteria
+889,crema de leche el morocho,2.26,1.90,charcuteria
 162,crema de leche guaralat G,3.60,3.00,charcuteria
-174,don ramon 400g,1.42,1.05,charcuteria
-173,don ramon 900g,2.87,2.40,charcuteria
+343,crema dolceña 450gr,2.60,2.10,charcuteria
+577,crema dolceña tapar450 gra,2.79,2.50,charcuteria
+179,diablito chadeli,3.55,2.79,charcuteria
+174,don ramon 400g,1.55,1.20,charcuteria
+173,don ramon 900g,3.00,2.53,charcuteria
+761,empanadas chilenas bandeja 5 unidades,4.00,3.00,charcuteria
+855,espalda cocida Alival,10.00,6.87,charcuteria
+382,facilista kraft,9.00,8.50,charcuteria
+871,jamon alival arepero,6.60,5.50,charcuteria
+291,jamon alival estanadar,10.00,7.27,charcuteria
+227,jamon de pierna puro lomo,8.20,6.50,charcuteria
+510,jamon magros espalda,9.80,7.00,charcuteria
 261,jamon milleniun 1.5 kg,10.00,9.30,charcuteria
 177,jamon orsatoni,8.20,6.20,charcuteria
-485,jamon orsatoni grande,9.00,6.16,charcuteria
+485,jamon orsatoni grande,9.00,7.00,charcuteria
+178,jamon pavo pequeño,3.00,2.77,charcuteria
+298,jamon pierna aulux,8.20,6.93,charcuteria
 182,jamon superior puro lomo 400 gr,3.95,3.44,charcuteria
-240,masa lista grande,1.70,1.38,charcuteria
-914,mortadela alibal 1 kilo,3.40,2.97,charcuteria
+191,masa lista,1.08,0.83,charcuteria
+240,masa lista grande,1.79,1.38,charcuteria
 217,mortadela alibal 500 gr,2.60,2.24,charcuteria
+292,mortadela alival 500 gr,2.20,1.75,charcuteria
+631,mortadela alival 700 gr,3.00,2.50,charcuteria
 175,mortadela caracas 500g,2.05,1.65,charcuteria
-262,mortadela caracas 900 gr,3.05,2.75,charcuteria
-688,mortadela la patrona pequeña,1.30,1.00,charcuteria
+262,mortadela caracas 900 gr,3.30,2.80,charcuteria
+595,mortadela con todo 400grs,1.50,1.19,charcuteria
+297,mortadela don teo 400 gr,1.40,1.24,charcuteria
+296,mortadela don teo grande,3.05,2.79,charcuteria
+500,mortadela extra alival,9.80,6.71,charcuteria
+780,mortadela la patrona grande,2.70,2.10,charcuteria
+688,mortadela la patrona pequeña,1.36,1.05,charcuteria
+349,mortadela milleniun 400 gr,1.46,1.15,charcuteria
 268,mortadela punta de m 500 gr,2.95,2.36,charcuteria
 768,mortadela punta de monte 1 kilo,4.85,4.18,charcuteria
+478,mortadela tapara pistacho,10.00,8.50,charcuteria
+354,mortadela tapara puro lomo,9.80,8.00,charcuteria
+367,mortadela villa julia 500,1.18,1.09,charcuteria
+345,mortadela villa julia grande,3.04,2.70,charcuteria
+754,pechuga de pavo 500 gr millenium,3.95,3.50,charcuteria
+181,pechuga puro lomo 400g,3.30,3.00,charcuteria
+509,peperoni la vega,11.59,9.48,charcuteria
+885,salchicha alimex 11 uni,2.05,1.62,charcuteria
 886,salchicha alimex 22 uni,3.70,3.14,charcuteria
+887,salchicha alpro,3.10,2.80,charcuteria
 180,salchicha puro lomo,6.10,4.49,charcuteria
+256,salchichas arichuna,3.81,3.50,charcuteria
+267,salchichas don eustoquio,10.50,7.50,charcuteria
+529,suero cherry,3.00,2.50,charcuteria
+208,suero fernando silva,1.42,0.83,charcuteria
 665,suero guaralac cremoso,2.30,1.90,charcuteria
 161,suero guaralact,1.40,1.10,charcuteria
-209,suero san pedro,1.45,1.19,charcuteria
-412,suero tapara dolceña,2.60,2.08,charcuteria
-909,Bianchi snacks sabores,0.72,0.52,chocolate
-912,Chocolate savoy 70 gr,2.68,226.00,chocolate
+482,suero la vega,1.01,0.90,charcuteria
+512,suero ojo de vaca,1.10,1.00,charcuteria
+209,suero san pedro,1.38,1.10,charcuteria
+412,suero tapara dolceña,2.38,2.00,charcuteria
+344,suero tradicion,1.30,1.20,charcuteria
+669,tequenos pequeño,2.20,1.75,charcuteria
+670,tequeño grande,3.61,2.98,charcuteria
+434,chicha el chichero 500 gr,6.40,5.34,chicha
+433,chichel chichero 200 gr,2.58,2.25,chicha
 523,bianchi barra,0.52,0.28,chocolate
+719,bianchi chocolate bolsa,0.80,0.58,chocolate
+411,carre grande,3.98,3.66,chocolate
+410,carre mini,1.39,1.06,chocolate
+717,choco palitos,1.03,0.80,chocolate
+695,chocogool,0.11,0.08,chocolate
+394,chocolate barra,0.36,0.26,chocolate
+320,chocolate corazon,1.39,1.17,chocolate
 749,chocolate cricri 27 g,1.49,1.18,chocolate
 750,chocolate galak 30 g,1.49,1.35,chocolate
 386,chocolate jet,0.50,0.38,chocolate
+404,cricri,1.18,0.96,chocolate
+387,flaquito,0.80,0.47,chocolate
 502,nucita 20grs,0.62,0.45,chocolate
-408,samba,1.00,0.81,chocolate
+318,nucita vaso 85 gr,2.70,2.45,chocolate
+716,piruling lata 155,5.32,4.90,chocolate
+407,rikiti,1.18,0.96,chocolate
+408,samba,1.11,0.79,chocolate
+409,samba mini,0.55,0.41,chocolate
 405,savoy,1.49,0.91,chocolate
+333,toronto,0.57,0.49,chocolate
 543,troncolate grande 30 gr,0.85,0.54,chocolate
-402,compota osole,0.74,0.60,compotas
-913,Aliño san Miguel,2.27,1.93,condimentos
+542,troncolate mini 17 gr,0.64,0.43,chocolate
+289,chuleta ahumada,10.50,7.50,chuleta ahumada
+263,lomito de cerdo puro lomo,12.00,7.33,chuleta ahumada
+370,lomo de cerdo,12.00,7.99,chuleta ahumada
+403,compota gerber,1.07,0.95,compotas
+402,compota osole,0.80,0.60,compotas
+435,compota polly sobre,0.89,0.62,compotas
+199,adobo chelpeca,1.78,1.49,condimentos
 300,adobo la comadre,2.00,1.56,condimentos
 151,aliño preparado sobre,0.28,0.13,condimentos
-169,cacao,1.77,1.30,condimentos
+591,aliño preparado teta grande,0.46,0.25,condimentos
+590,aliño preparado teta pequeña,0.40,0.12,condimentos
+718,caldo desmenuzado,0.24,0.18,condimentos
 18,cubito maggi,0.24,0.13,condimentos
-19,laila sobre,0.20,0.10,condimentos
+19,laila sobre,0.17,0.10,condimentos
 729,levadura y polvo de hornear,0.41,24.00,condimentos
 764,oregano de teta,0.31,0.20,condimentos
-21,sopa maggi,1.52,1.24,condimentos
+21,sopa maggi,1.50,1.24,condimentos
+735,trifogon caja,1.58,1.00,condimentos
 20,trifogon sobre,0.08,0.05,condimentos
-270,conservas de coco cocolait,0.60,0.34,conservas
-930,Colgate Kids 50 gr,2.05,1.79,cremas dentales
-111,colgate 60ml triple A,1.63,1.36,cremas dentales
-112,colgate 90ml,1.55,1.44,cremas dentales
+414,conserva guayaba y leche,0.49,0.36,conservas
+270,conservas de coco cocolait,0.47,0.34,conservas
+117,alident 100g,1.20,1.00,cremas dentales
+111,colgate 60ml triple A,1.80,1.65,cremas dentales
+112,colgate 90ml,1.53,1.44,cremas dentales
+758,crema Advanced 120 g,1.70,1.40,cremas dentales
 658,maksim 135 gramos,1.17,0.86,cremas dentales
 115,maksim 90g roja,1.00,0.70,cremas dentales
 116,maksim azul 90 gr,1.19,0.93,cremas dentales
 113,maksim roja 50 gr,0.55,0.38,cremas dentales
-911,Desodorante Dioxogen,1.60,1.25,desodorante
-314,desodorante balance sobre,0.37,0.27,desodorante
-904,lady speed s complete,0.42,0.38,desodorante
-125,lady speed stick sobre,0.36,0.26,desodorante
-224,rexona practi tapa,0.50,0.37,desodorante
-836,speed stick clinica tubo,1.75,1.47,desodorante
-126,speed stick sobre,0.47,0.40,desodorante
-362,speed stick tubo morado y azul,1.60,1.35,desodorante
-966,Sardina Della Nonna,0.84,0.75,enlatados
-907,Twesty Queso,3.52,3.00,enlatados
+797,Atun Chefs 170 gr,1.61,1.33,enlatados
+788,Atun VIvaldi 140 gr,1.65,1.45,enlatados
 6,atun been,1.85,1.59,enlatados
 644,atun bubba desmenuzado,1.15,0.85,enlatados
-526,atun bubba entero 170 gr,1.45,1.14,enlatados
-326,diablitos under w 54gr,1.86,1.58,enlatados
-327,diablitos unser w 115 gr,3.15,2.66,enlatados
+526,atun bubba entero 170 gr,1.50,1.20,enlatados
+358,atun california,1.13,0.99,enlatados
+508,atun diaplomatico verde,1.77,1.66,enlatados
+431,atun eveba 140 gr,2.60,2.20,enlatados
+307,atun pacifico 175 gr,2.00,1.70,enlatados
+548,atun peñero desmenuzado,1.42,1.13,enlatados
+646,atun peñero entero,1.94,1.66,enlatados
+657,atun peñero natural,1.82,1.54,enlatados
+492,atun willinger 142 gr,1.57,1.38,enlatados
+373,atun willinger 170 gr,1.94,1.55,enlatados
+326,diablitos under w 54gr,1.91,1.60,enlatados
+327,diablitos unser w 115 gr,3.10,2.39,enlatados
 446,pepitona eveba natural 140 gr,1.30,1.13,enlatados
 328,pepitona margarita,2.25,1.91,enlatados
-198,rikesa,4.43,3.91,enlatados
+198,rikesa,4.63,3.99,enlatados
+200,rikesa barata queso,4.00,3.37,enlatados
+538,sardina el morro,0.81,0.71,enlatados
 455,sardina eveba 170 gr,1.20,1.03,enlatados
 643,sardina omega,0.81,0.63,enlatados
 858,sardina peñero 170 gr,0.66,0.56,enlatados
 601,sardina venport,0.79,0.67,enlatados
 295,sardinas incosa,0.74,0.68,enlatados
-918,Cheetos mega puffs 110 gr,2.07,1.80,frituras
-910,Chiskesitos familiar 145 gr,1.77,1.37,frituras
-917,De Todito resuelto grande,2.42,2.15,frituras
-927,Papas Lays 30 gr,1.11,0.91,frituras
+772,Platanitos mezcladitos,0.75,0.55,frituras
 78,cheesetres P,0.93,0.71,frituras
-77,cheesetres grande 150 gr,1.98,1.58,frituras
+77,cheesetres grande 150 gr,1.90,1.52,frituras
 736,chicharon pequeño,0.68,0.50,frituras
+753,chicharrron grande,1.13,0.90,frituras
+321,chis kesitos 145 gr,1.74,1.43,frituras
+322,chis kesitos xxl 450gr,3.82,3.52,frituras
+553,criska estrellita,0.40,0.35,frituras
+537,criska pepika,0.42,0.34,frituras
 273,doritos familiar,2.85,2.39,frituras
 391,doritos pequeno,1.05,0.84,frituras
 588,nachos,0.82,0.58,frituras
-939,papas fritas,0.49,0.35,frituras
-255,papas ralladas 100gr,0.72,0.02,frituras
-75,pepito G,1.35,1.08,frituras
+255,papa rallldas 100gr,0.72,0.02,frituras
+75,pepito G,1.29,1.03,frituras
 76,pepito P,0.70,0.47,frituras
 776,pepito Pepiking,0.65,0.44,frituras
+751,pepito osti familiar 100 g,0.99,0.77,frituras
+503,pepito pigsy picante,0.27,0.17,frituras
 393,raquety pequeno,0.67,0.42,frituras
 546,ruffles original 36 gr,1.22,0.98,frituras
 80,toston grande,1.30,0.75,frituras
 81,toston pequeño,0.52,0.45,frituras
+430,mani japones,0.82,0.60,fruto secos
 214,mani salado,0.82,0.43,fruto secos
 213,mixtura,0.57,0.34,fruto secos
-901,Galleta Choco Crunch,1.29,1.08,galletas y chucherias
-986,Galleta Mini Dani,1.18,0.92,galletas y chucherias
-903,Galletas Tan,0.61,0.48,galletas y chucherias
+838,Ducales,1.25,0.98,galletas y chucherias
 796,Mega Bit lonchera,0.64,0.45,galletas y chucherias
-71,club social,0.40,0.25,galletas y chucherias
+71,club social,0.40,0.24,galletas y chucherias
 65,coco crunch,1.20,1.00,galletas y chucherias
 197,cocosette,1.00,0.77,galletas y chucherias
 72,dandy,0.51,0.32,galletas y chucherias
-66,deleitinas,0.60,0.46,galletas y chucherias
+66,deleitinas,0.91,0.69,galletas y chucherias
+392,flips 120 gr grande,1.97,1.71,galletas y chucherias
+68,flips lonchera,0.76,0.54,galletas y chucherias
 331,galleta belvita hony bran,0.49,0.30,galletas y chucherias
+522,galleta charmy  16 gr,0.18,0.13,galletas y chucherias
+231,galleta charmy doble,0.44,0.29,galletas y chucherias
+329,galleta charmy moka doble,0.32,0.24,galletas y chucherias
+330,galleta chips ahoy,0.52,0.39,galletas y chucherias
 762,galleta de soda,0.33,0.20,galletas y chucherias
-11,galleta maria caledonia,1.00,0.83,galletas y chucherias
-877,galleta mini chips tira,0.73,0.61,galletas y chucherias
+11,galleta maria caledonia,1.34,1.10,galletas y chucherias
+554,galleta maria pampa,0.51,0.39,galletas y chucherias
+877,galleta mni chips tira,0.73,0.61,galletas y chucherias
 64,galletas babo,0.63,0.46,galletas y chucherias
+335,galletas chocoking 90 gr,0.85,0.75,galletas y chucherias
+506,galletas mini dani chips 150 gr,1.03,0.83,galletas y chucherias
+252,galletas tip top,1.04,1.00,galletas y chucherias
+275,galletas yupi,0.50,0.40,galletas y chucherias
 69,max coco,0.66,0.43,galletas y chucherias
-715,mega bit 120 g,1.75,1.33,galletas y chucherias
-714,nucita crunch,2.00,1.62,galletas y chucherias
-70,oreo original 4 galletas,0.51,0.37,galletas y chucherias
+715,mega bit 120 g,1.83,1.47,galletas y chucherias
+714,nucita crunch,2.06,1.69,galletas y chucherias
+70,oreo original 4 galletas,0.70,0.37,galletas y chucherias
 73,palitos,0.60,0.31,galletas y chucherias
+74,rodrigo,0.27,0.20,galletas y chucherias
 282,salricas unidad,0.60,0.40,galletas y chucherias
-953,Frijol Pico Negro 500 gr,0.64,0.50,granos
-801,Lentejas Aurora 400 gr,1.32,1.17,granos
-945,Lentejas Maizal 400 gr,1.32,1.11,granos
-27,caraotas 1/2,1.17,1.07,granos
-400,caraotas amanecer,1.75,1.50,granos
-168,granola,0.75,0.37,granos
-28,lentejas 1/2,1.38,0.95,granos
-277,lentejas amanecer,1.36,1.15,granos
-238,maiz cotufa amanecer,1.34,1.13,granos
-346,quinchoncho medio kilo,1.21,1.08,granos
-947,Harina Mimasa,0.84,0.73,harina de maiz
-22,harina doña emilia,0.85,0.73,harina de maiz
-301,harina lucharepa,0.94,0.81,harina de maiz
-419,harina pan libre de gluten,1.20,1.20,harina de maiz
-190,harina mary leudante,1.33,1.21,harina de trigo
-210,harina mary todo uso,1.44,1.26,harina de trigo
-23,robin hood Leudante,1.06,0.86,harina de trigo
-24,robin hood Todo uso,1.00,0.79,harina de trigo
-547,helados ciocolato,0.90,0.55,helados
-598,Huevos unidad,0.21,0.10,huevos
-377,huevos A,2.87,2.83,huevos
-932,Jabon Moncler 90 gr,2.02,1.69,jabon de baño
-929,Jabon Palmolive 85 gr,1.10,0.96,jabon de baño
-91,anita 125 gr grande,0.93,0.79,jabon de baño
-92,anita 80 gr Pequeño,0.65,0.49,jabon de baño
-230,medicare classic 85 gr,0.85,0.60,jabon de baño
-90,protex 110 gr,1.82,2.26,jabon de baño
-536,protex 75 gr,1.13,0.94,jabon de baño
-960,Jabon Peros 460 gr,1.11,0.85,jabon en polvo
-959,Jabon Ultrex 500 gr,1.37,1.01,jabon en polvo
-977,Jabon las Llaves Activa 900 gr,2.72,2.33,jabon en polvo
-676,jabon alive 200 gr,0.63,0.45,jabon en polvo
-957,jabon las llaves Activa 400 gr,1.27,1.09,jabon en polvo
-95,panela las llaves 250 gr,1.00,0.72,jabon panela
-94,panela llaves bebe,1.13,0.92,jabon panela
-62,panelada,0.76,0.51,jugo se sobre
-63,qualimax,0.36,0.23,jugo se sobre
-725,El valle jugo 1.5 litro,1.40,0.91,jugos
-737,el valle jugo 500 mi,0.66,0.62,jugos
-861,jugo fruton 400 ml bulto,7.00,6.00,jugos
-426,jugo guaca fruit200 ml,0.68,0.41,jugos
-479,jugo jucosa,0.56,0.48,jugos
+401,susy,0.94,0.77,galletas y chucherias
+436,gelatina sonrisa 66 gr,1.85,1.60,gelatina
+316,gelatina rolda 120 gr,2.70,2.26,gelatina para el cabello
+852,Azucar Doña Alicia,1.40,1.30,"harinas :maiz,trigo"
+202,araurigua 900gr,1.09,1.06,"harinas :maiz,trigo"
+437,harina blanca leudante,1.33,1.06,"harinas :maiz,trigo"
+385,harina doña belen,1.10,0.91,"harinas :maiz,trigo"
+22,harina doña emilia,0.97,0.89,"harinas :maiz,trigo"
+167,harina especial leudante,1.51,1.22,"harinas :maiz,trigo"
+299,harina juana,0.87,0.82,"harinas :maiz,trigo"
+201,harina la especial todo uso,1.42,1.14,"harinas :maiz,trigo"
+301,harina lucharepa,1.05,0.96,"harinas :maiz,trigo"
+26,harina mary de maiz,1.15,0.88,"harinas :maiz,trigo"
+190,harina mary leudante,1.33,1.21,"harinas :maiz,trigo"
+210,harina mary todo uso,1.44,1.26,"harinas :maiz,trigo"
+259,harina mimasa,0.94,0.84,"harinas :maiz,trigo"
+419,harina pan libre de gluten,1.30,1.20,"harinas :maiz,trigo"
+733,harina venpor,0.91,0.81,"harinas :maiz,trigo"
+541,pampa leudante 500 gr harina de trigo,1.00,0.66,"harinas :maiz,trigo"
+540,pampa leudante 920 gr harina de trigo,1.41,1.10,"harinas :maiz,trigo"
+519,pampa todo uso 500 gr harina de trigo,1.00,0.62,"harinas :maiz,trigo"
+539,pampa todo uso 920 gr harina de trigo,1.25,1.07,"harinas :maiz,trigo"
+23,robin hood Leudante,1.25,1.05,"harinas :maiz,trigo"
+24,robin hood Todo uso,1.20,0.95,"harinas :maiz,trigo"
+547,helados ciocolato,0.85,0.55,helados
+854,Huevo B,2.74,2.29,huevos
+598,Huevos unidad,0.24,0.18,huevos
+377,huevos A,3.26,2.83,huevos
+802,Jabo Oso Blaco 200gr,0.63,0.42,jabones
+91,anita 125 gr grande,1.09,0.88,jabones
+92,anita 80 gr Pequeño,0.94,0.57,jabones
+763,aromatizante Roberti 1 L,1.80,1.43,jabones
+103,aromax,0.57,0.29,jabones
+104,axion 150g,1.09,0.81,jabones
+105,axion 235 gr,1.86,1.49,jabones
+678,brillante  lavaplatos crema,1.60,1.28,jabones
+100,fabuloso,0.94,0.80,jabones
+841,jabon Oso Blanco 800 g deterjente,2.57,2.18,jabones
+293,jabon alive 1 kilo,2.67,2.32,jabones
+97,jabon alive 1/2,1.40,1.21,jabones
+676,jabon alive 200 gr,0.63,0.45,jabones
+875,jabon alive 400 gr,1.29,1.00,jabones
+857,jabon alive 900 gr,2.54,2.20,jabones
+229,jabon de avena,0.59,0.43,jabones
+551,jabon palmolive 85 gr,0.93,0.77,jabones
+460,jabon ultrex  500 gr,1.44,1.24,jabones
+782,las llaves deterjente 400 g,1.27,1.09,jabones
+840,las llaves deterjente 400 g bebe,1.62,1.44,jabones
+230,medicare classic 85 gr,0.85,0.60,jabones
+99,multiclean 400g,1.37,1.14,jabones
+98,multiclean 900g,2.10,1.84,jabones
+396,panela alive,1.00,0.56,jabones
+93,panela especial,1.00,0.81,jabones
+95,panela las llaves 250 gr,1.29,1.16,jabones
+94,panela llaves bebe,1.13,0.92,jabones
+90,protex 110 gr,1.82,2.26,jabones
+536,protex 75 gr,1.13,0.94,jabones
+504,suavisante alive 200ml,0.70,0.52,jabones
+398,suavisante alive 500ml,1.73,1.55,jabones
+101,suavitel 180 ml,0.80,0.63,jabones
+876,suavitel 500 gr,2.45,2.18,jabones
+599,suvisante alive 180 ml,0.68,0.51,jabones
 609,jugo jugosa 1 litro,2.09,1.74,jugos
 648,jugo jugosa pequeño,0.81,0.58,jugos
-60,jugo justi 1.5 lit unidad,1.40,1.00,jugos
-949,jugo justy 400 ml unidad,0.66,0.40,jugos
-678,brillante  lavaplatos crema,1.60,1.28,lavaplatos
-35,leche condensada maita,1.78,1.46,leche condensada
-31,dobom 120,1.50,1.19,leche en polvo
-30,dobom 200,2.30,2.04,leche en polvo
-29,dobom 400,4.30,3.85,leche en polvo
-399,leche amanecer 125 gr,2.10,1.83,leche en polvo
-422,leche amanecer 400 gr,6.23,5.76,leche en polvo
-342,leche los andes 250 gr,3.30,3.00,leche en polvo
-216,leche lucha 900g,10.50,9.50,leche en polvo
-981,Leche Purisima completa,2.82,2.42,leche liquida
-578,leche liquida natulac,2.63,2.25,leche liquida
-891,leche liquida purisima descremada,2.80,1.60,leche liquida
-879,maiz dulce bubba 184 gr,1.08,0.76,maiz dulce
+444,nectar frica  manzana 1 lit,2.10,1.84,jugos
+442,nectar frica durazno 1 litr,2.10,1.84,jugos
+518,avena de vita 400 gr,1.47,1.10,leche y cereales
+266,avena detallada 250 gr,0.70,0.50,leche y cereales
+36,avena don jorge,1.22,1.05,leche y cereales
+169,cacao,1.77,1.30,leche y cereales
+41,cerelac 100g,2.82,2.40,leche y cereales
+324,cerelac 400 gr,5.40,4.79,leche y cereales
+42,crema arroz santoni,1.00,1.00,leche y cereales
+237,crema de arroz mary,1.15,0.92,leche y cereales
+43,crema de arroz santoni,1.13,0.82,leche y cereales
+880,crema de leche di fiore 170 gr,1.67,1.41,leche y cereales
+31,dobom 120,1.55,1.22,leche y cereales
+30,dobom 200,2.66,2.04,leche y cereales
+29,dobom 400,4.90,4.39,leche y cereales
+713,esponja unica grande,0.62,0.48,leche y cereales
+881,fororo valle hondo 250 gr,0.73,0.56,leche y cereales
+39,fororo valle hondo 400 gr,0.90,0.68,leche y cereales
+686,gelatina vaso,0.84,0.62,leche y cereales
+399,leche amanecer 125 gr,2.40,1.95,leche y cereales
+422,leche amanecer 400 gr,6.76,6.10,leche y cereales
+250,leche condensada cremor,1.75,1.44,leche y cereales
+35,leche condensada maita,1.78,1.46,leche y cereales
+353,leche condensada natulac,2.24,2.18,leche y cereales
+432,leche indosa 180 gr,1.62,1.48,leche y cereales
+438,leche la campiña 125 gr,2.37,2.04,leche y cereales
+582,leche la campiña 200 gr,4.10,3.35,leche y cereales
+583,leche la campiña 400 gr,8.33,8.06,leche y cereales
+439,leche la campiña 900 gr,16.50,14.94,leche y cereales
+440,leche la campiña descremada 400 gr,8.40,7.33,leche y cereales
+766,leche la lucha,12.50,11.00,leche y cereales
+578,leche liquida natulac,2.63,2.25,leche y cereales
+890,leche liquida purisima completa,2.10,1.60,leche y cereales
+891,leche liquida purisima descremada,2.00,1.60,leche y cereales
+342,leche los andes 250 gr,3.30,3.00,leche y cereales
+216,leche lucha 900g,10.50,9.50,leche y cereales
+166,leche montaña fresca 400 gr,2.74,2.51,leche y cereales
+441,leche parmalat descremada 1 ltr,3.22,2.91,leche y cereales
+34,leche san simon 1L,2.95,2.50,leche y cereales
+341,leche sansebastian 200 gr,3.20,3.00,leche y cereales
+340,leche svelty 400 gr,5.08,4.83,leche y cereales
+579,leche vidalac 400 gr,6.00,4.50,leche y cereales
+748,leche vittale 30 g,0.80,0.62,leche y cereales
+38,maizena 120g,1.15,0.76,leche y cereales
+712,maizena 200 g,1.66,1.41,leche y cereales
+37,maizena 90g,0.96,0.75,leche y cereales
+632,maizoritos azucarados,3.30,2.83,leche y cereales
+40,maizoritos blanco,3.00,2.46,leche y cereales
+734,maizoritos fruty aros,3.25,2.83,leche y cereales
+710,maizoritos lonchera,0.55,0.36,leche y cereales
+235,nestum 225 gr,3.68,3.43,leche y cereales
+325,nestum 50 gr,1.22,1.09,leche y cereales
+32,purelac,2.86,1.00,leche y cereales
+302,toddy 100 gr,1.82,1.47,leche y cereales
+711,toddy 200 gr pote,3.22,2.80,leche y cereales
+746,toddy bolsa 400 g,6.70,6.18,leche y cereales
+747,tristras 90 gr,2.65,2.14,leche y cereales
+666,yogurt 400 cc,2.15,1.80,leche y cereales
+835,yogurt kids,1.58,1.30,leche y cereales
+721,Cool,0.91,0.80,los llanos
+568,aceitunas los llanos,11.00,9.80,los llanos
+570,alcaparras los llanos,7.80,6.20,los llanos
+572,carne de sopa los llanos,7.00,5.50,los llanos
+563,cerdo los llanos,9.00,6.80,los llanos
+567,hilo pavilo los llanos,0.40,0.30,los llanos
+564,jamon arepero los llanos,3.10,2.40,los llanos
+565,mortadela los llanos,2.70,2.50,los llanos
+569,pasas los llanos,8.80,7.20,los llanos
+571,peperonis los llanos,2.70,2.40,los llanos
+573,pulpa de marrano,10.00,9.00,los llanos
+879,maiz dulce bubba 184 gr,1.07,0.75,maiz dulce
 290,maiz dulce osole lata,1.79,1.35,maiz dulce
-900,Margarina Pampa 225 gr,1.22,1.01,mantequillas
-961,Margarina juana 464 gr,2.20,1.88,mantequillas
-937,Margarina la lucha,2.50,2.15,mantequillas
-3,mantequilla mavesa G,3.00,2.62,mantequillas
-269,mantequilla mavesa P,1.76,1.49,mantequillas
-985,Mayonesa Fritz 150 gr,1.52,1.27,mayonessa
-958,Mayonesa La Especial 445 gr,2.84,2.44,mayonessa
-938,Mayonesa Real 445 gr,3.26,2.93,mayonessa
-798,mayonesa La Pastora 185 g,1.31,1.12,mayonessa
-380,mayonesa Real 175 gr,1.49,1.17,mayonessa
-9,mayonesa kemy G,2.95,2.61,mayonessa
-165,mayonesa kemy P,1.60,1.32,mayonessa
-722,mayonesa la lucha,3.22,2.80,mayonessa
-7,mayonesa mavesa G,4.32,3.86,mayonessa
-8,mayonesa mavesa P,2.40,1.98,mayonessa
-13,mostaza eureka plastico,2.00,1.28,mayonessa
-935,Agua Oxigenada,1.05,0.90,medicinas
-933,Algodon,1.05,0.78,medicinas
-934,Curitas,0.38,0.24,medicinas
-971,Envase de Heces,0.26,0.18,medicinas
-936,Fin al grip 500 mg,6.35,5.80,medicinas
-976,Vaselina Baby Finger 55 gr,1.46,1.13,medicinas
+521,Vinagre kepa 500ml,1.00,0.63,"mayonesa,salsa,vinagre"
+849,base para salsa ROROS sobre,1.97,1.61,"mayonesa,salsa,vinagre"
+752,mayonesa La Giralda 445 g,2.60,2.00,"mayonesa,salsa,vinagre"
+798,mayonesa La Pastora 185 g,1.31,1.12,"mayonesa,salsa,vinagre"
+799,mayonesa La Pastora 445 gr,2.53,2.23,"mayonesa,salsa,vinagre"
+679,mayonesa doypack fritz 150 gr,1.52,1.31,"mayonesa,salsa,vinagre"
+309,mayonesa gosto grande,2.37,2.26,"mayonesa,salsa,vinagre"
+308,mayonesa gosto pequeña,1.46,1.13,"mayonesa,salsa,vinagre"
+9,mayonesa kemy G,3.00,2.56,"mayonesa,salsa,vinagre"
+165,mayonesa kemy P,1.61,1.31,"mayonesa,salsa,vinagre"
+589,mayonesa kraft 445 gr,4.65,3.71,"mayonesa,salsa,vinagre"
+722,mayonesa la lucha,2.80,2.39,"mayonesa,salsa,vinagre"
+7,mayonesa mavesa G,4.50,4.06,"mayonesa,salsa,vinagre"
+8,mayonesa mavesa P,2.40,1.98,"mayonesa,salsa,vinagre"
+380,mayonesa monte c sobre 175 gr,1.49,1.17,"mayonesa,salsa,vinagre"
+13,mostaza eureka plastico,2.18,1.76,"mayonesa,salsa,vinagre"
+350,mostaza heinz 113 gr,1.54,1.36,"mayonesa,salsa,vinagre"
+272,mostaza kiero,1.25,1.13,"mayonesa,salsa,vinagre"
+684,salsa de tocineta fritz 240 gr,3.79,3.37,"mayonesa,salsa,vinagre"
+225,salsa fritz sabores 145 g,1.80,1.57,"mayonesa,salsa,vinagre"
+14,salsa inglesa reina,1.00,1.00,"mayonesa,salsa,vinagre"
+683,salsa maiz fritz 240 gr,4.15,3.74,"mayonesa,salsa,vinagre"
+310,salsa rosada gosto pequeña,1.15,1.04,"mayonesa,salsa,vinagre"
+15,vainilla el aguila,0.81,0.58,"mayonesa,salsa,vinagre"
+16,vinagre kepa 1L,1.35,1.00,"mayonesa,salsa,vinagre"
 185,acetaminofen,0.13,0.07,medicinas
-234,alcohol 120cc,1.05,0.63,medicinas
+234,alcohol 120cc,0.90,0.63,medicinas
 428,algodon,0.80,0.63,medicinas
 660,clorace antigripal caja,3.18,2.64,medicinas
 661,clorace antigripal unidad,0.35,0.27,medicinas
 183,diclofenac,0.12,0.09,medicinas
 315,envase de orina,0.32,0.20,medicinas
 184,ibuprofeno 800ml,0.20,0.11,medicinas
-659,inyectadora,0.17,0.07,medicinas
+659,inyectadora,0.23,0.13,medicinas
 186,loratadina,0.24,0.10,medicinas
 187,metronidazol,0.23,0.15,medicinas
 188,omeprazol,0.17,0.10,medicinas
-336,torcilax,0.34,0.15,medicinas
-608,catalina grande centro unidad,0.22,0.16,panaderia centro
-607,catalina grande paquete centro,2.22,1.64,panaderia centro
-942,Cortadito paquete,2.00,1.50,panaderia mario
+221,teragrip,1.43,1.17,medicinas
+336,torcilax,0.39,0.15,medicinas
 834,Pan Arabe,1.81,1.60,panaderia mario
-950,Pan Frances javi,1.35,1.00,panaderia mario
-951,Pan Sobado javi,1.35,1.00,panaderia mario
-893,Pan de coco paquete,3.70,3.20,panaderia mario
-894,Pan de coco unidad,0.40,0.32,panaderia mario
-895,Pan de leche grande,1.91,1.50,panaderia mario
-922,Quesadilla,2.40,2.00,panaderia mario
-941,Tunja mini,1.80,1.20,panaderia mario
 866,acemita grande,3.55,3.00,panaderia mario
 245,arequipe pequeno,1.23,1.10,panaderia mario
 781,cachitos paquete,1.23,1.00,panaderia mario
+458,catalina mario paquete,1.63,1.00,panaderia mario
 491,catalina mario unidad,0.17,0.10,panaderia mario
-458,catalina paquete de 5 uni,2.00,1.50,panaderia mario
-943,cortado unidad,0.45,30.00,panaderia mario
+757,galleta de guayaba unidad,0.33,0.26,panaderia mario
 865,palmeritas,2.50,2.00,panaderia mario
 244,pan andino largo,1.88,1.50,panaderia mario
 203,pan de dios,1.20,0.90,panaderia mario
 867,pan de guayabita redondo paquete,2.37,1.90,panaderia mario
 461,pan de queso,2.00,1.70,panaderia mario
+257,pan guayabita 5 unidades,1.40,1.10,panaderia mario
 868,pan guayabita redondo unidad,0.26,0.23,panaderia mario
-635,pan piñita,1.40,1.00,panaderia mario
+287,pan integral,1.59,1.30,panaderia mario
+635,pan piñita,1.40,1.10,panaderia mario
 773,pastelito hojaldre paquete,2.56,2.10,panaderia mario
 730,pastelitos de hojaldre unidad,0.27,0.20,panaderia mario
-870,pecho e niña unidad,0.36,0.20,panaderia mario
-869,pecho eniña paquete,1.71,1.30,panaderia mario
+756,pecho e niña,0.33,0.26,panaderia mario
+870,pecho e niña unidad,0.26,0.20,panaderia mario
+869,pecho eniña paquete,2.37,1.90,panaderia mario
 246,polvorosa paquete,2.13,1.50,panaderia mario
 456,polvorosas unidad,0.20,0.16,panaderia mario
 864,tunja grande,2.00,1.60,panaderia mario
 204,tunja mario,1.88,1.50,panaderia mario
-494,papel alisof paquete 215 h,0.70,0.55,papel de baño
-556,papel alisof unidad,0.26,0.16,papel de baño
-429,papel h europapel 215 h,0.77,0.57,papel de baño
-157,papel luciano,0.71,0.57,papel de baño
-156,papel rosal 215 h verde,0.95,0.77,papel de baño
-561,papel rosal naranja plus,2.85,2.08,papel de baño
-596,papel rosal verde unidad,0.34,0.32,papel de baño
-495,rosal 180 h rojo,1.10,0.98,papel de baño
-158,servilletas,1.24,0.90,papel de baño
-962,Pasta Mary 500 gr larga,0.87,0.68,pasta
-967,Pasta larga Della Nonna 1kilo,1.59,1.40,pasta
-423,pasta corta especial,1.74,1.54,pasta
-424,pasta larga especial,1.47,1.22,pasta
-147,pañales G,4.10,4.37,pañales
-148,pañales M,4.00,3.65,pañales
-149,pañales P,3.73,3.14,pañales
-146,pañales XG,4.10,3.42,pañales
-940,pañales xg y g detallado,0.28,0.20,pañales
-973,Colador de cafe,0.31,0.20,plasticos de cocina
+206,canilla,1.06,0.90,panaderia miguel
+205,sandwich,1.80,1.30,panaderia miguel
+533,pan frances,1.36,1.00,panaderia yoseline
+672,pan guayaba paq 10 uni,2.46,2.00,panaderia yoseline
+755,pan guayaba unidad,0.27,0.20,panaderia yoseline
+534,pan sobado,1.36,1.00,panaderia yoseline
+671,pan tornillo,1.52,1.10,panaderia yoseline
+423,pasta corta especial,1.90,1.54,pasta
+416,pasta corta primor,1.89,1.44,pasta
+777,pasta larga 500 g la especial,0.98,0.87,pasta
+415,pasta larga alegri,1.40,1.35,pasta
+424,pasta larga especial,1.60,1.32,pasta
+418,pasta larga mary,1.45,1.33,pasta
+155,hugme morada,0.95,0.90,"pañales,toallas,papel"
+494,papel alisof paquete 215 h,0.71,0.53,"pañales,toallas,papel"
+556,papel alisof unidad,0.26,0.16,"pañales,toallas,papel"
+236,papel caricias,1.99,1.83,"pañales,toallas,papel"
+429,papel h europapel 215 h,0.77,0.57,"pañales,toallas,papel"
+157,papel luciano,0.82,0.60,"pañales,toallas,papel"
+156,papel rosal 215 h verde,1.00,0.76,"pañales,toallas,papel"
+561,papel rosal naranja plus,2.85,2.08,"pañales,toallas,papel"
+596,papel rosal verde unidad,0.34,0.32,"pañales,toallas,papel"
+147,pañales G,4.60,4.37,"pañales,toallas,papel"
+148,pañales M,4.50,3.65,"pañales,toallas,papel"
+149,pañales P,3.73,3.14,"pañales,toallas,papel"
+150,pañales Unidad,0.32,0.10,"pañales,toallas,papel"
+146,pañales XG,4.36,3.84,"pañales,toallas,papel"
+463,pañales pamper,0.26,0.20,"pañales,toallas,papel"
+610,protector diario alive,0.94,0.71,"pañales,toallas,papel"
+784,protectores diarios nosotras,1.01,0.86,"pañales,toallas,papel"
+495,rosal 180 h rojo,1.10,0.98,"pañales,toallas,papel"
+158,servilletas,1.24,0.90,"pañales,toallas,papel"
+152,toallas alive morada claro,1.00,0.76,"pañales,toallas,papel"
+153,toallas alive nocturna,1.15,1.56,"pañales,toallas,papel"
+317,toallas alive rosada,0.99,0.71,"pañales,toallas,papel"
+159,toallas humedas Baby finger,1.23,1.00,"pañales,toallas,papel"
+194,toallas mimlot,1.14,0.91,"pañales,toallas,papel"
+562,toallin Alisof,0.75,0.52,"pañales,toallas,papel"
+154,wanita nocturna,1.37,1.14,"pañales,toallas,papel"
+846,colador de cafe,0.55,0.22,plasticos de cocina
+842,colador de jugo,0.90,0.62,plasticos de cocina
 848,colador de pasta,1.77,1.40,plasticos de cocina
+843,envase con tapa,1.27,0.91,plasticos de cocina
 844,envase lonchera niño,1.77,1.43,plasticos de cocina
 847,jarra de plastico 1 L,2.26,1.91,plasticos de cocina
-925,Limpiador Mr Clean,1.41,1.16,productos de limpieza
-108,brisol,2.65,2.14,productos de limpieza
-110,cera,3.17,2.67,productos de limpieza
+845,taza de cafe,0.62,0.42,plasticos de cocina
+585,milanesa de pollo,9.00,7.20,pollo
+778,pechuga de pollo,5.41,5.00,pollo
+265,pollo entero,4.00,3.59,pollo
+264,pollo picado,4.20,4.40,pollo
+108,brisol,2.70,1.45,productos de limpieza
+110,cera,2.80,2.10,productos de limpieza
 172,cloro,1.30,0.35,productos de limpieza
-924,cloro Mr Clean,1.28,1.12,productos de limpieza
-107,jabon morado,2.71,2.21,productos de limpieza
-109,limpia poceta,2.14,1.37,productos de limpieza
+654,desengrasante rosado,1.82,1.35,productos de limpieza
+106,jabon liquido azul,2.83,0.92,productos de limpieza
+107,jabon morado,2.70,1.45,productos de limpieza
+109,limpia poceta,1.96,1.45,productos de limpieza
+839,limpiador de pocetas Mas,3.09,2.73,productos de limpieza
+888,queso amarillo Don Armando,12.00,8.69,quesos
 851,queso amarillo Mi Vallesito,15.00,11.60,quesos
-483,queso churuguara,6.48,5.30,quesos
-420,queso pecorino 40 gr,2.46,2.10,quesos
-968,Brillo de alambre ultra,0.40,0.26,quincalla
-969,Esponja Aliclean,0.33,0.20,quincalla
-507,bolsa grande 30 kilos,0.11,0.07,quincalla
+464,queso amarillo campo rico,16.60,13.20,quesos
+465,queso amarillo puro queso,16.00,13.45,quesos
+525,queso amarillo real,15.00,12.40,quesos
+634,queso cheddar,5.00,4.30,quesos
+483,queso churuguara,5.94,5.30,quesos
+484,queso de cabra,8.20,7.00,quesos
+466,queso mozzarella 500 gr,5.00,4.00,quesos
+420,queso pecorino 100g,2.92,2.00,quesos
+507,bolsa grande 30 kilos,0.09,0.07,quincalla
 129,bolsa negra,0.38,0.21,quincalla
+783,bombillo amarillo,0.59,0.44,quincalla
 501,bombillo led america 20 w,1.00,0.76,quincalla
-132,cepillo barrer jumbo,4.20,3.64,quincalla
+131,bombillos led america 15 w,1.05,0.82,quincalla
+132,cepillo barrer jumbo,4.50,3.51,quincalla
+286,cepillo dental colgate,1.47,0.83,quincalla
 136,cepillo dental maksim,0.67,0.43,quincalla
+133,cepillo lavar,0.81,0.80,quincalla
 555,esponja de alambre aliclean,0.40,0.22,quincalla
 493,esponja izy,1.20,0.95,quincalla
+130,esponja tapa a,1.23,1.06,quincalla
+144,fregador alambre matrix,0.34,2.02,quincalla
+332,hisopo redondo,1.26,1.04,quincalla
 390,hojilla unidad,0.15,0.09,quincalla
+142,hojillas cajita de 5 unidades,0.68,0.52,quincalla
+294,pega loca 3 amarilla,0.42,0.18,quincalla
 143,pega loca astro,0.49,0.21,quincalla
 135,pilas AA Y AAA,0.60,0.28,quincalla
 222,plagatox,0.46,0.30,quincalla
-138,prestobarba dorco,0.32,0.19,quincalla
-137,prestobarba max,0.36,0.20,quincalla
+138,prestobarba dorco,0.38,0.24,quincalla
+137,prestobarba max,0.38,0.23,quincalla
 145,reflector led con socate,2.00,1.09,quincalla
-139,resistencia o caracol,1.78,1.27,quincalla
-141,velas,0.15,0.09,quincalla
+139,resistencia,2.64,2.23,quincalla
+134,socate,0.40,0.10,quincalla
+141,velas,0.20,0.12,quincalla
 140,yesquero,0.67,0.30,quincalla
-744,Big cola unid,1.08,0.80,refrescos
-832,Soda liquida 400ml,0.64,0.55,refrescos
-603,chinoto 1.5 litros,1.13,0.78,refrescos
-602,chinoto 2 litros,1.28,1.01,refrescos
-738,coca coca bombita uni,0.82,0.65,refrescos
-56,coca cola 1.25L (R) uni,1.17,0.75,refrescos
-54,coca cola 1.5L uni,1.59,1.16,refrescos
-55,coca cola 1L uni,1.10,0.83,refrescos
-53,coca cola 2 L unidad,1.72,1.38,refrescos
-513,fanta 1 litro,1.00,0.73,refrescos
-425,fanta sabores 1.5 litros,1.21,0.83,refrescos
-487,fanta sabores 2 litros,1.40,1.00,refrescos
-605,frescolita 1 litro,1.00,0.63,refrescos
-584,frescolita 1.5 lit,1.21,0.80,refrescos
-604,frescolita 2 litros,1.40,1.00,refrescos
-786,gatorade,1.98,1.54,refrescos
-653,golden 2 litros,1.40,1.00,refrescos
-560,golden sabores 1 litro,1.00,0.80,refrescos
-337,golden sabores 1.5 litros,1.21,0.83,refrescos
-862,jugo fruton 400 ml,0.68,0.40,refrescos
-57,malta 1.5L,2.10,1.70,refrescos
-58,malta botellita,0.73,0.46,refrescos
-486,pepsi 1.5 litro,1.35,1.08,refrescos
-785,power max,0.58,0.40,refrescos
-59,refresco retornable 350 ml,0.77,0.50,refrescos
-52,sun cola 2L,1.03,0.83,refrescos
-211,sun cola 400 ml,0.54,0.32,refrescos
+744,Big cola unid,1.03,0.80,refresco y jugos
+725,El valle jugo 1.5 litro,1.25,0.91,refresco y jugos
+832,Soda liquida 400ml,0.64,0.55,refresco y jugos
+413,boka,0.36,0.20,refresco y jugos
+488,chinoto 1 litro,1.00,0.63,refresco y jugos
+603,chinoto 1.5 litros,1.13,0.78,refresco y jugos
+602,chinoto 2 litros,1.28,1.01,refresco y jugos
+738,coca coca bombita uni,0.82,0.65,refresco y jugos
+56,coca cola 1.25L (R) uni,1.15,3.88,refresco y jugos
+54,coca cola 1.5L uni,1.53,1.16,refresco y jugos
+55,coca cola 1L uni,1.05,0.83,refresco y jugos
+53,coca cola 2 L unidad,1.74,1.37,refresco y jugos
+737,el valle jugo 500 mi,0.78,0.62,refresco y jugos
+304,epeed max,0.70,0.57,refresco y jugos
+513,fanta 1 litro,0.98,0.73,refresco y jugos
+425,fanta sabores 1.5 litros,1.12,0.78,refresco y jugos
+487,fanta sabores 2 litros,1.28,0.95,refresco y jugos
+421,first  de sabores 2 litros,1.15,0.87,refresco y jugos
+605,frescolita 1 litro,1.00,0.63,refresco y jugos
+584,frescolita 1.5 lit,1.13,0.80,refresco y jugos
+604,frescolita 2 litros,1.28,0.95,refresco y jugos
+786,gatorade,1.98,1.54,refresco y jugos
+653,golden 2 litros,1.28,0.94,refresco y jugos
+560,golden sabores 1 litro,0.98,0.80,refresco y jugos
+337,golden sabores 1.5 litros,1.12,0.77,refresco y jugos
+862,jugo fruton 400 ml,0.63,0.40,refresco y jugos
+426,jugo guaca fruit200 ml,0.73,0.49,refresco y jugos
+479,jugo jucosa,0.56,0.48,refresco y jugos
+60,jugo justi 1.5 lit,1.26,0.98,refresco y jugos
+769,jugo justi medio L,0.65,0.46,refresco y jugos
+212,jugo sol amado 1.5 lit,1.00,0.79,refresco y jugos
+254,jugo sol amado pequeño,0.49,0.36,refresco y jugos
+61,jugo unica,0.49,0.36,refresco y jugos
+57,malta 1.5L,2.10,1.70,refresco y jugos
+58,malta botellita,0.68,0.45,refresco y jugos
+481,malta de lata,0.87,0.76,refresco y jugos
+171,nectar natulac 1L,2.00,1.79,refresco y jugos
+62,panelada,0.76,0.51,refresco y jugos
+486,pepsi 1.5 litro,1.35,1.08,refresco y jugos
+785,power max,0.58,0.40,refresco y jugos
+63,qualimax,0.36,0.23,refresco y jugos
+59,refresco retornable 350 ml,0.58,0.43,refresco y jugos
+52,sun cola 2L,1.03,0.83,refresco y jugos
+211,sun cola 400 ml,0.52,0.32,refresco y jugos
+489,toronja 1 litro,0.79,0.61,refresco y jugos
+219,sal,0.40,0.30,sal
 283,sal Ensal,0.55,0.33,sal
-926,Mostaza Fritz 160 gr,1.20,1.03,salsas
-984,Salsa Amatriciana Fritz 310 gr,2.28,1.90,salsas
-982,Salsa BBQ Fritz 290 gr,2.84,2.47,salsas
-983,Salsa Napolitana Fritz 310 gr,2.80,2.47,salsas
-978,Salsa de tomate Real 397 gr,1.74,1.47,salsas
-849,base para salsa ROROS sobre,1.97,1.61,salsas
+527,sal prosanca,0.45,0.22,sal
 760,mostaza fritz 250 g,3.08,2.67,salsas
+682,salsa BBQ fritz 290 gr,3.04,2.72,salsas
 800,salsa La Pastora 370 gr,1.31,1.12,salsas
-470,salsa boloñesa fritz 310 gr,2.10,1.71,salsas
+476,salsa ajo fritz 150 gr,1.22,1.03,salsas
+685,salsa albahaca fritz 310 gr,2.10,1.70,salsas
+472,salsa amatriciana fritz 310 gr,2.30,1.96,salsas
+470,salsa boloñesa fritz 310 gr,2.10,1.77,salsas
+323,salsa boloñesa osole,1.20,1.09,salsas
 468,salsa cheddar fritz 240 g,3.92,3.42,salsas
 311,salsa china de ajo,1.60,1.11,salsas
 535,salsa china de soya,1.40,1.03,salsas
+449,salsa da e soya heinz 150 ml,1.68,1.57,salsas
 447,salsa de ajo tiquire 150 ml,1.65,1.37,salsas
-684,salsa de tocineta fritz 240 gr,3.79,3.37,salsas
-878,salsa de tomate  fritz 165 gr,1.00,0.83,salsas
+450,salsa de soya heinz 150,1.99,1.82,salsas
+448,salsa de soya heinz 150 ml,1.68,1.57,salsas
+878,salsa de tomate  fritz 165 gr,0.92,0.74,salsas
 258,salsa de tomate la giralda,1.87,1.55,salsas
-225,salsa fritz sabores 145 g,1.80,1.57,salsas
+863,salsa de tomate osole 200 g,1.20,1.03,salsas
+700,salsa heinz,1.24,1.00,salsas
+451,salsa heinz 198 gr,1.73,1.47,salsas
+452,salsa heinz 397 gr,2.46,2.10,salsas
 612,salsa inglesa china,1.47,1.13,salsas
-14,salsa inglesa reina,1.00,1.00,salsas
-683,salsa maiz fritz 240 gr,4.15,3.74,salsas
-312,salsa pampero 397 gr,2.10,1.74,salsas
-471,salsa para pizza fritz 310 gr,1.91,1.53,salsas
+475,salsa inglesa fritz 150 gr,1.22,1.03,salsas
+355,salsa monte 175 g,1.00,0.71,salsas
+514,salsa napolitana fritz  310 gr,2.10,1.70,salsas
+4,salsa osole,1.16,1.03,salsas
+361,salsa pampero 198 g,1.48,1.31,salsas
+312,salsa pampero 397 gr,2.53,2.14,salsas
+471,salsa para pizza fritz 310 gr,2.38,1.72,salsas
 759,salsa picante fritz 250 g,2.85,2.40,salsas
 531,salsa roros bbq,2.22,2.00,salsas
+681,salsa rosada fritz 260 gr,2.86,2.54,salsas
 467,salsa sabor a maiz 145 gr,2.20,1.60,salsas
-454,salsa tiquire 397 gr,1.63,1.34,salsas
+474,salsa soya fritz 150 gr,1.22,1.03,salsas
+453,salsa tiquire 198 gr,1.45,1.18,salsas
+454,salsa tiquire 397 gr,1.63,1.32,salsas
+680,salsa tomate doypack fritz 165 gr,1.03,0.86,salsas
+530,"salsas roros maiz, cheddar,ajo",2.72,2.50,salsas
+594,shampoo savital,1.32,1.09,salsas
+520,Balance tubo,2.04,1.68,shampoo y desodorante
 260,agua oxigenada lovia,1.00,0.65,shampoo y desodorante
+397,champoo alive hierbas 250,1.79,1.46,shampoo y desodorante
+121,crema hugme bebe,3.00,2.00,shampoo y desodorante
+314,desodorante balance sobre,0.37,0.27,shampoo y desodorante
+125,lady speed stick sobre,0.36,0.26,shampoo y desodorante
 128,nutribella,0.70,0.46,shampoo y desodorante
+196,rexona clinica tubo,1.97,1.62,shampoo y desodorante
+224,rexona practi tapa,0.50,0.37,shampoo y desodorante
 193,shampoo baby finger peque,1.20,0.93,shampoo y desodorante
-120,shampoo head &  shoulder,0.43,0.29,shampoo y desodorante
+120,shampoo head &  shoulder,0.47,0.33,shampoo y desodorante
+119,shampoo hug,2.31,2.00,shampoo y desodorante
+118,shampoo hugme g,2.31,2.00,shampoo y desodorante
 544,shampoo pantene tira,0.50,0.60,shampoo y desodorante
-504,suavisante alive 200ml,0.70,0.52,suavisantes
-398,suavisante alive 500ml,1.73,1.55,suavisantes
-101,suavitel 180 ml,0.77,0.63,suavisantes
-876,suavitel 500 gr,2.45,2.18,suavisantes
-915,suavitel tira,0.52,0.38,suavisantes
-599,suvisante alive 180 ml,0.68,0.56,suavisantes
-610,protector diario alive,0.94,0.71,toallas asanitarias
-152,toallas alive morada claro,0.87,0.74,toallas asanitarias
-153,toallas alive nocturna extra,1.03,0.90,toallas asanitarias
-317,toallas alive rosada,0.75,0.62,toallas asanitarias
-159,toallas humedas Baby finger,1.07,0.85,toallas asanitarias
-630,biscocho,1.10,0.57,tortas
+836,speed stick clinica tubo,1.75,1.47,shampoo y desodorante
+127,speed stick clinical sobre,1.09,1.00,shampoo y desodorante
+126,speed stick sobre,0.47,0.40,shampoo y desodorante
+362,speed stick tubo morado y azul,1.60,1.35,shampoo y desodorante
+248,tinte lovia pequeño,1.15,0.93,shampoo y desodorante
+123,vaselina,1.77,1.00,shampoo y desodorante
+122,vaselina 120g,2.31,2.00,shampoo y desodorante
+558,tamarindo grande,2.00,1.50,tamarindo
+726,tamarindo pequeño,1.00,0.80,tamarindo
+365,tocineta chargon,15.00,13.74,tocineta chargon
+630,biscocho,1.18,0.60,tortas
 626,barra silicon fina,0.40,0.23,utiles escolares
 627,barra silicon gruesa,0.70,0.52,utiles escolares
 618,borra pointer unidad,0.25,0.15,utiles escolares
+629,corrector,1.10,0.70,utiles escolares
 617,fichas pequeña,0.06,0.03,utiles escolares
+774,foami carta,0.25,0.16,utiles escolares
+614,hojas de examen unidad,0.08,0.05,utiles escolares
+613,hojas tipo carta unidad,0.04,0.01,utiles escolares
 647,lapicero,0.23,0.11,utiles escolares
 624,lapiz mongol unidad,0.45,0.26,utiles escolares
 621,lapiz pointer hb,0.33,0.16,utiles escolares
+615,libreta norma,1.53,1.11,utiles escolares
 619,marcador turmax,0.52,0.30,utiles escolares
 616,papel bond,0.16,0.10,utiles escolares
 625,pega blanca 60ml unidad,0.70,0.32,utiles escolares
 775,pintura al frio,0.77,0.55,utiles escolares
 628,sacapunta metal,0.22,0.12,utiles escolares
-906,Vinagre Kepa 1 L,1.87,1.60,vinagre
-521,Vinagre kepa 500ml,1.00,0.63,vinagre
-931,yogurt 330 cc,1.62,1.30,yogurt
-835,yogurt kids,1.58,1.30,yogurt
+623,silicon liquido 30ml,1.00,0.68,utiles escolares
+284,tirro,1.68,1.22,utiles escolares
+620,tizas pointer cajita,0.85,0.55,utiles escolares
+17,vinagre heiinz 500ml,1.43,1.29,vinagre
